@@ -1,3 +1,5 @@
+<h1>UNDER CONSTRUCTION</h1>
+
 <h2>Hey 👋, I'm Miquel</h2>
 <p>Software developer, mainly focused on front-end development using technologies as Angular, JS, React, etc., also able to work with more back-end-related technologies as .Net or Java.
 <br/><br/>
