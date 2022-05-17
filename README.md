@@ -44,5 +44,5 @@ Technology and music enthusiast, always interested in learning new things and im
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="40" height="40"/>
 </p>
 
-<p><img style="height: 165px; width: 420px" align="left" src="https://github-readme-stats.vercel.app/api?username=miquel-gb&show_icons=true&count_private=true" alt="miquel-gb" />
-<img style="height: 165px; width: 420px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=miquel-gb&show_icons=true&locale=en&layout=compact" alt="miquel-gb" /></p>
+<p><img style="height: 165px; width: 390px" align="left" src="https://github-readme-stats.vercel.app/api?username=miquel-gb&show_icons=true&count_private=true" alt="miquel-gb" />
+<img style="height: 165px; width: 390px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=miquel-gb&show_icons=true&locale=en&layout=compact" alt="miquel-gb" /></p>
