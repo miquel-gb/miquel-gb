@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Miquel</h2>
 <p>Software developer, mainly focused on front-end development using technologies as Angular, JS, React, etc., also able to work with more back-end-related technologies as .Net or Java.
 <br/><br/>
-After studying Multiplatform Software Development CFGS in Mallorca I started working as a front-end developer, later on I moved out of the island looking for new experiences that allow me to learn new things, nowadays I'm working remotely as a Senior Software Engineer at <strong><a href="https://www.travelgatex.com/">TravelgateX</a></strong>.
+After studying Multiplatform Software Development CFGS in Mallorca and continuing my studies at the UNED (Universidad Nacional de Educación a Distancia) I started working as a front-end developer, later on I moved out of the island looking for new experiences that allow me to learn new things, nowadays I'm working remotely as a Senior Software Engineer at <strong><a href="https://www.travelgatex.com/">TravelgateX</a></strong>.
 <br/><br/>
 Technology and music enthusiast, always interested in learning new things and improving my capabilities.</p>
 
