@@ -15,7 +15,7 @@ Technology and music enthusiast, always interested in learning new things and im
 <h2>Some things about me</h2>
 <ul>
 <li>Started self-taught coding at 16. I've always been into developing related stuff!</li>
-<li>Been playing videogames my whole life, I used to play a lot of World of Warcraft and League of Legends (still play a bit nowadays).</li>
+<li>Been playing videogames my whole life (still play a bit nowadays, not gonna lie).</li>
 <li>I love listening and playing all kinds of music. I play guitar and bass and I can play a bit of piano.</li>
 <li>I'm kind of a sport enthusiast, I like practicing all kind of sports, mostly trail running. Feel free to stalk me on <a href="https://www.strava.com/athletes/36839165">strava</a>.</li>
 </ul>
