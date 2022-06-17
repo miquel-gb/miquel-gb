@@ -8,7 +8,7 @@ Technology and music enthusiast, always interested in learning new things and im
 <p>
 
 <h2>Find me online!</h2>
-<a href="https://www.linkedin.com/in/ginesbm/"><img src="https://img.shields.io/badge/-@ginesbm-0077B5?style=flat&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ginesbm/" alt="LinkedIn Badge"></a> <!--<a href="https://twitter.com/miquel_gb_"><img src="https://img.shields.io/badge/-@miquel_gb_-4E69C8?style=flat&amp;labelColor=4E69C8&amp;logo=twitter&amp;link=https://twitter.com/miquel_gb_" alt="Twitter Badge"></a>  <a href="https://www.instagram.com/miquelgb/"><img src="https://img.shields.io/badge/-@miquelgb-14c767?style=flat&amp;labelColor=14c767&amp;logo=instagram&amp;link=https://www.instagram.com/miquelgb/" alt="Instagram Badge"></a> <a href="https://open.spotify.com/user/1135710338"><img src="https://img.shields.io/badge/-@Miquel%20GB-1ED760?style=flat&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1135710338" alt="Spotify Badge"></a>-->
+<a href="https://www.linkedin.com/in/ginesbm/"><img src="https://img.shields.io/badge/-@ginesbm-0077B5?style=flat&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/ginesbm/" alt="LinkedIn Badge"></a> <a href="https://twitter.com/miquel_gb_"><img src="https://img.shields.io/badge/-@miquel_gb_-4E69C8?style=flat&amp;labelColor=4E69C8&amp;logo=twitter&amp;link=https://twitter.com/miquel_gb_" alt="Twitter Badge"></a>  <a href="https://www.instagram.com/miquelgb/"><img src="https://img.shields.io/badge/-@miquelgb-14c767?style=flat&amp;labelColor=14c767&amp;logo=instagram&amp;link=https://www.instagram.com/miquelgb/" alt="Instagram Badge"></a> <a href="https://open.spotify.com/user/1135710338"><img src="https://img.shields.io/badge/-@Miquel%20GB-1ED760?style=flat&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/1135710338" alt="Spotify Badge"></a>
 
 </p>
 
@@ -41,7 +41,6 @@ Technology and music enthusiast, always interested in learning new things and im
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql" width="40" height="40"/>
 </p>
 
 <p><img style="height: 165px; width: 390px" align="left" src="https://github-readme-stats.vercel.app/api?username=miquel-gb&show_icons=true&count_private=true" alt="miquel-gb" />
